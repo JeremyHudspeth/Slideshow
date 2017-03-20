@@ -1,0 +1,30 @@
+/* use this to put borders around things... */
+h2{
+	font-family: "arial",serif;
+}
+
+p{
+	margin-top:10px;
+	font-family: sans-serif;
+	font-style: italic;
+	font-size:12pt;
+	color:gray;
+}
+
+.crop-img{
+  max-height:80px;
+  max-width:100%;
+  margin-top: 20px;
+}
+
+.large-img{
+  max-width:80%;
+}
+
+#backward{
+	margin-top:200px;
+}
+
+#forward{
+	margin-top:200px;
+}
